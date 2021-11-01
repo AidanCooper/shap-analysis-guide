@@ -2,8 +2,6 @@ axes.prop_cycle : cycler(color=["003f5c", "d45087", "ffa600", "665191", "ff7c43"
 figure.figsize : 12, 8
 axes.titlesize : 22
 axes.labelsize : 18
-axes.spines.top : False
-axes.spines.right : False
 axes.facecolor : white
 axes.titleweight : 500
 axes.labelweight : 500
